@@ -1,0 +1,16 @@
+C:\Users\Ильяс Сабитов\source\CleaningCompanyApp\CleaningCompanyApp\bin\Debug\CleaningCompanyApp.exe.config
+C:\Users\Ильяс Сабитов\source\CleaningCompanyApp\CleaningCompanyApp\bin\Debug\CleaningCompanyApp.exe
+C:\Users\Ильяс Сабитов\source\CleaningCompanyApp\CleaningCompanyApp\bin\Debug\CleaningCompanyApp.pdb
+C:\Users\Ильяс Сабитов\source\CleaningCompanyApp\CleaningCompanyApp\obj\Debug\CleaningCompanyApp.csprojResolveAssemblyReference.cache
+C:\Users\Ильяс Сабитов\source\CleaningCompanyApp\CleaningCompanyApp\obj\Debug\CleaningCompanyApp.Form1.resources
+C:\Users\Ильяс Сабитов\source\CleaningCompanyApp\CleaningCompanyApp\obj\Debug\CleaningCompanyApp.Properties.Resources.resources
+C:\Users\Ильяс Сабитов\source\CleaningCompanyApp\CleaningCompanyApp\obj\Debug\CleaningCompanyApp.csproj.GenerateResource.Cache
+C:\Users\Ильяс Сабитов\source\CleaningCompanyApp\CleaningCompanyApp\obj\Debug\CleaningCompanyApp.csproj.CoreCompileInputs.cache
+C:\Users\Ильяс Сабитов\source\CleaningCompanyApp\CleaningCompanyApp\obj\Debug\CleaningCompanyApp.exe
+C:\Users\Ильяс Сабитов\source\CleaningCompanyApp\CleaningCompanyApp\obj\Debug\CleaningCompanyApp.pdb
+C:\Users\Ильяс Сабитов\source\CleaningCompanyApp\CleaningCompanyApp\obj\Debug\CleaningCompanyApp.EnterForm.resources
+C:\Users\Ильяс Сабитов\source\CleaningCompanyApp\CleaningCompanyApp\obj\Debug\CleaningCompanyApp.RegisterForm.resources
+C:\Users\Ильяс Сабитов\source\CleaningCompanyApp\CleaningCompanyApp\obj\Debug\CleaningCompanyApp.SupplierForm.resources
+C:\Users\Ильяс Сабитов\source\CleaningCompanyApp\CleaningCompanyApp\bin\Debug\Dapper.dll
+C:\Users\Ильяс Сабитов\source\CleaningCompanyApp\CleaningCompanyApp\bin\Debug\Dapper.xml
+C:\Users\Ильяс Сабитов\source\CleaningCompanyApp\CleaningCompanyApp\obj\Debug\CleaningCompanyApp.CustomerForm.resources
